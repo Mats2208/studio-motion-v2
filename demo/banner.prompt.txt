@@ -1,0 +1,27 @@
+{
+  "type": "wide 3:1 GitHub README banner for an open-source motion-design project",
+  "style": "premium tech product commercial key art, clean modern editorial layout, soft studio lighting, glossy 3D objects rendered like Blender Cycles with shallow depth of field, subtle film grain, no clutter",
+  "aspect_ratio": "3:1 wide panoramic",
+  "background": "deep ink violet-black #0E0B16 on the left two thirds fading into a soft lilac #B9A6FF light pool behind the 3D objects on the right; very subtle vignette",
+  "layout": {
+    "left_block": {
+      "position": "left third, vertically centered, generous left margin",
+      "eyebrow": "small monospace uppercase label in lilac #B9A6FF that reads \"HYPERFRAMES × BLENDER\"",
+      "title": "large bold tight grotesk sans-serif wordmark in warm white #F4F0EA that reads \"STUDIO MOTION\" followed by \"V2\" set in an elegant italic serif in coral #FF5B3A",
+      "subtitle": "one line in light grotesk, warm white at 75% opacity, that reads \"Motion graphics + 3D, synced to the voice\""
+    },
+    "right_scene": {
+      "position": "right half",
+      "hero_object": "a large glossy violet #6A3DF0 3D mouse-pointer cursor arrow with thick rounded bevels and a thin coral rim light, three-quarter view, floating — reproduce the cursor shape and material exactly as in Image 1",
+      "secondary_objects": "a twisting satin coral #FF5B3A ribbon with a violet underside sweeping in an S-curve behind and under the cursor (like Image 2), and a small balanced sculpture of rounded lilac cube, coral cylinder and a violet torus far behind, slightly out of focus (like Image 3)",
+      "accent": "a thin coral design-tool alignment guide line with a tiny monospace label chip near the cursor tip"
+    }
+  },
+  "reference_use": {
+    "Image 1": "cursor shape, violet plastic material and dark lighting — reproduce faithfully, ignore its text",
+    "Image 2": "the coral ribbon form and color only, ignore its background and text",
+    "Image 3": "the sculpture pieces and their materials only, ignore its text and guides",
+    "Image 4": "the italic serif typography style only, ignore the word it shows"
+  },
+  "text_rules": "render only the three texts quoted above, exactly, no other words, no logos"
+}
