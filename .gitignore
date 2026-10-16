@@ -1,0 +1,17 @@
+# Blender: frame sequences (1.7 GB, rebuilt by tools/render_queue.py), render snapshots and backups
+renders/*
+!renders/b5_snaps.json
+blender/snap_*.blend
+blender/render_*.blend
+*.blend1
+# deliverables live outside git (Desktop / film/renders)
+film/renders/
+# tool state
+film/node_modules/
+film/.hyperframes/
+film/.thumbnails/
+film/.waveform-cache/
+logs/
+review/
+__pycache__/
+*.pyc

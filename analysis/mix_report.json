@@ -1,0 +1,5 @@
+{
+ "lufs_before_norm": -18.28,
+ "lufs_final_estimate": -14.14,
+ "limiter_min_gain_db": -4.08
+}

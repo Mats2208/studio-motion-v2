@@ -1,0 +1,171 @@
+{
+ "file": "film\\renders\\studio-motion-v2-maya.mp4",
+ "probe": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "codec_name": "h264",
+    "codec_type": "video",
+    "width": 1920,
+    "height": 1080,
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1",
+    "nb_frames": "750"
+   },
+   {
+    "codec_name": "aac",
+    "codec_type": "audio",
+    "sample_rate": "48000",
+    "channels": 2,
+    "r_frame_rate": "0/0",
+    "nb_frames": "1173"
+   }
+  ],
+  "format": {
+   "duration": "25.000000"
+  }
+ },
+ "format_ok": true,
+ "frames": 750,
+ "lufs": -14.1,
+ "true_peak_dbfs": -1.4,
+ "freezes": [],
+ "black_segments": [],
+ "sync": {
+  "idea": {
+   "onset_frame": 44,
+   "first_visual_change_frame": 45,
+   "lag_frames": 1,
+   "ok": true,
+   "diffs": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    284,
+    587,
+    660,
+    685,
+    705,
+    709
+   ]
+  },
+  "vida": {
+   "onset_frame": 194,
+   "first_visual_change_frame": 194,
+   "lag_frames": 0,
+   "ok": true,
+   "diffs": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    199,
+    600,
+    599,
+    600,
+    600,
+    600,
+    599
+   ]
+  },
+  "movimiento": {
+   "onset_frame": 268,
+   "first_visual_change_frame": 269,
+   "lag_frames": 1,
+   "ok": true,
+   "diffs": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1603,
+    2309,
+    2466,
+    2561,
+    2609,
+    2617
+   ]
+  },
+  "posibilidades": {
+   "onset_frame": 360,
+   "first_visual_change_frame": 361,
+   "lag_frames": 1,
+   "ok": true,
+   "diffs": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1646,
+    1796,
+    1845,
+    1840,
+    1795,
+    1789
+   ]
+  },
+  "lugar": {
+   "onset_frame": 451,
+   "first_visual_change_frame": 452,
+   "lag_frames": 1,
+   "ok": true,
+   "diffs": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    669,
+    852,
+    926,
+    966,
+    961,
+    968
+   ]
+  },
+  "dimensiones": {
+   "onset_frame": 663,
+   "first_visual_change_frame": 664,
+   "lag_frames": 1,
+   "ok": true,
+   "diffs": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    589,
+    10245,
+    16584,
+    19318,
+    20266,
+    20275
+   ]
+  }
+ },
+ "done_when": {
+  "format_25s_1080p30_h264_aac": true,
+  "loudness_-14±0.5_LUFS": true,
+  "true_peak_<=-1dBTP": true,
+  "no_freeze_>=1s": true,
+  "no_pure_black_frames_(luma<3%)": true,
+  "emphasis_sync_within_2_frames": true
+ }
+}

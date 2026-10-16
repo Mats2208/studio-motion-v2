@@ -1,0 +1,18 @@
+{
+ "start": {
+  "time": "2026-10-16T13:48:41-04:00",
+  "session_used_pct": 1,
+  "weekly_used_pct": 25,
+  "context_tokens_left": 14849505
+ },
+ "end": {
+  "session_used_pct": 10,
+  "weekly_used_pct": 26,
+  "context_tokens_left": 14471749
+ },
+ "delta": {
+  "session_pct": 9,
+  "weekly_pct": 1,
+  "context_tokens_used": 377756
+ }
+}

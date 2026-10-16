@@ -1,0 +1,171 @@
+{
+ "file": "film\\renders\\studio-motion-v2-lucia.mp4",
+ "probe": {
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+   {
+    "codec_name": "h264",
+    "codec_type": "video",
+    "width": 1920,
+    "height": 1080,
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1",
+    "nb_frames": "750"
+   },
+   {
+    "codec_name": "aac",
+    "codec_type": "audio",
+    "sample_rate": "48000",
+    "channels": 2,
+    "r_frame_rate": "0/0",
+    "nb_frames": "1173"
+   }
+  ],
+  "format": {
+   "duration": "25.000000"
+  }
+ },
+ "format_ok": true,
+ "frames": 750,
+ "lufs": -14.0,
+ "true_peak_dbfs": -1.5,
+ "freezes": [],
+ "black_segments": [],
+ "sync": {
+  "idea": {
+   "onset_frame": 44,
+   "first_visual_change_frame": 45,
+   "lag_frames": 1,
+   "ok": true,
+   "diffs": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    239,
+    582,
+    659,
+    690,
+    707,
+    712
+   ]
+  },
+  "vida": {
+   "onset_frame": 194,
+   "first_visual_change_frame": 194,
+   "lag_frames": 0,
+   "ok": true,
+   "diffs": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    400,
+    595,
+    596,
+    597,
+    597,
+    598,
+    597
+   ]
+  },
+  "movimiento": {
+   "onset_frame": 268,
+   "first_visual_change_frame": 269,
+   "lag_frames": 1,
+   "ok": true,
+   "diffs": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1592,
+    2309,
+    2466,
+    2564,
+    2607,
+    2614
+   ]
+  },
+  "posibilidades": {
+   "onset_frame": 374,
+   "first_visual_change_frame": 374,
+   "lag_frames": 0,
+   "ok": true,
+   "diffs": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    825,
+    1789,
+    1818,
+    1840,
+    1820,
+    1779,
+    1792
+   ]
+  },
+  "lugar": {
+   "onset_frame": 451,
+   "first_visual_change_frame": 452,
+   "lag_frames": 1,
+   "ok": true,
+   "diffs": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    668,
+    856,
+    923,
+    963,
+    965,
+    971
+   ]
+  },
+  "dimensiones": {
+   "onset_frame": 663,
+   "first_visual_change_frame": 664,
+   "lag_frames": 1,
+   "ok": true,
+   "diffs": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    592,
+    10264,
+    16587,
+    19327,
+    20273,
+    20280
+   ]
+  }
+ },
+ "done_when": {
+  "format_25s_1080p30_h264_aac": true,
+  "loudness_-14±0.5_LUFS": true,
+  "true_peak_<=-1dBTP": true,
+  "no_freeze_>=1s": true,
+  "no_pure_black_frames_(luma<3%)": true,
+  "emphasis_sync_within_2_frames": true
+ }
+}

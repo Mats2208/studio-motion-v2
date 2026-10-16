@@ -1,0 +1,14 @@
+{
+ "name": "malena",
+ "source": "audition/3-malena.mp3",
+ "alignment": "audition/3-malena.json",
+ "whisper": "analysis/words-malena.json",
+ "corrections": [
+  -0.068,
+  0.004,
+  0.033,
+  0.001,
+  0.063,
+  -0.006
+ ]
+}

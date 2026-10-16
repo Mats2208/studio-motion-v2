@@ -1,0 +1,1057 @@
+{
+ "voice": "lucia",
+ "fps": 30,
+ "duration": 25.0,
+ "frames": 750,
+ "width": 1920,
+ "height": 1080,
+ "seed": 251016,
+ "bpm": 120,
+ "score_trim": 0.056,
+ "beats": [
+  0.0,
+  0.5,
+  1.0,
+  1.5,
+  2.0,
+  2.5,
+  3.0,
+  3.5,
+  4.0,
+  4.5,
+  5.0,
+  5.5,
+  6.0,
+  6.5,
+  7.0,
+  7.5,
+  8.0,
+  8.5,
+  9.0,
+  9.5,
+  10.0,
+  10.5,
+  11.0,
+  11.5,
+  12.0,
+  12.5,
+  13.0,
+  13.5,
+  14.0,
+  14.5,
+  15.0,
+  15.5,
+  16.0,
+  16.5,
+  17.0,
+  17.5,
+  18.0,
+  18.5,
+  19.0,
+  19.5,
+  20.0,
+  20.5,
+  21.0,
+  21.5,
+  22.0,
+  22.5,
+  23.0,
+  23.5,
+  24.0,
+  24.5
+ ],
+ "downbeats": [
+  1.0,
+  3.0,
+  5.0,
+  7.0,
+  9.0,
+  11.0,
+  13.0,
+  15.0,
+  17.0,
+  19.0,
+  21.0,
+  23.0
+ ],
+ "phrases": [
+  {
+   "index": 0,
+   "src_in": 0.0,
+   "src_out": 1.878,
+   "offset": 0.258,
+   "start": 0.258,
+   "end": 2.136,
+   "text": "Todo empieza con una idea"
+  },
+  {
+   "index": 1,
+   "src_in": 1.878,
+   "src_out": 5.279,
+   "offset": 1.704,
+   "start": 3.582,
+   "end": 6.983,
+   "text": "La imaginás la probás y le das vida"
+  },
+  {
+   "index": 2,
+   "src_in": 5.821,
+   "src_out": 7.727,
+   "offset": 1.756,
+   "start": 7.577,
+   "end": 9.483,
+   "text": "Un trazo se transforma en movimiento"
+  },
+  {
+   "index": 3,
+   "src_in": 7.727,
+   "src_out": 10.676,
+   "offset": 2.869,
+   "start": 10.596,
+   "end": 13.545,
+   "text": "Las preguntas abren nuevas posibilidades"
+  },
+  {
+   "index": 4,
+   "src_in": 10.873,
+   "src_out": 12.801,
+   "offset": 2.672,
+   "start": 13.545,
+   "end": 15.473,
+   "text": "Y cada pieza encuentra su lugar"
+  },
+  {
+   "index": 5,
+   "src_in": 12.801,
+   "src_out": 15.464,
+   "offset": 8.028,
+   "start": 20.829,
+   "end": 23.492,
+   "text": "Creá en todas las dimensiones"
+  }
+ ],
+ "words": [
+  {
+   "word": "Todo",
+   "key": "todo",
+   "src_start": 0.0,
+   "src_end": 0.277,
+   "whisper_eleven_delta_ms": 0,
+   "phrase": 0,
+   "start": 0.258,
+   "end": 0.535,
+   "frame": 8,
+   "onset": 0.258,
+   "onset_frame": 8
+  },
+  {
+   "word": "empieza",
+   "key": "empieza",
+   "src_start": 0.289,
+   "src_end": 0.627,
+   "whisper_eleven_delta_ms": 21,
+   "phrase": 0,
+   "start": 0.547,
+   "end": 0.885,
+   "frame": 16,
+   "onset": 0.547,
+   "onset_frame": 16
+  },
+  {
+   "word": "con",
+   "key": "con",
+   "src_start": 0.657,
+   "src_end": 0.933,
+   "whisper_eleven_delta_ms": 33,
+   "phrase": 0,
+   "start": 0.915,
+   "end": 1.191,
+   "frame": 27,
+   "onset": 0.988,
+   "onset_frame": 30
+  },
+  {
+   "word": "una",
+   "key": "una",
+   "src_start": 0.945,
+   "src_end": 1.057,
+   "whisper_eleven_delta_ms": 31,
+   "phrase": 0,
+   "start": 1.203,
+   "end": 1.315,
+   "frame": 36,
+   "onset": 1.203,
+   "onset_frame": 36
+  },
+  {
+   "word": "idea",
+   "key": "idea",
+   "src_start": 1.141,
+   "src_end": 1.718,
+   "whisper_eleven_delta_ms": 77,
+   "phrase": 0,
+   "start": 1.399,
+   "end": 1.976,
+   "frame": 42,
+   "onset": 1.467,
+   "onset_frame": 44
+  },
+  {
+   "word": "La",
+   "key": "la",
+   "src_start": 1.892,
+   "src_end": 2.02,
+   "whisper_eleven_delta_ms": 148,
+   "phrase": 1,
+   "start": 3.596,
+   "end": 3.724,
+   "frame": 108,
+   "onset": 3.579,
+   "onset_frame": 107
+  },
+  {
+   "word": "imaginás",
+   "key": "imaginás",
+   "src_start": 2.043,
+   "src_end": 2.83,
+   "whisper_eleven_delta_ms": 277,
+   "phrase": 1,
+   "start": 3.747,
+   "end": 4.534,
+   "frame": 112,
+   "onset": 3.747,
+   "onset_frame": 112
+  },
+  {
+   "word": "la",
+   "key": "la",
+   "src_start": 2.879,
+   "src_end": 2.972,
+   "whisper_eleven_delta_ms": 81,
+   "phrase": 1,
+   "start": 4.583,
+   "end": 4.676,
+   "frame": 137,
+   "onset": 4.546,
+   "onset_frame": 136
+  },
+  {
+   "word": "probás",
+   "key": "probás",
+   "src_start": 3.019,
+   "src_end": 3.776,
+   "whisper_eleven_delta_ms": 161,
+   "phrase": 1,
+   "start": 4.723,
+   "end": 5.48,
+   "frame": 142,
+   "onset": 4.766,
+   "onset_frame": 143
+  },
+  {
+   "word": "y",
+   "key": "y",
+   "src_start": 4.214,
+   "src_end": 4.284,
+   "whisper_eleven_delta_ms": 434,
+   "phrase": 1,
+   "start": 5.918,
+   "end": 5.988,
+   "frame": 178,
+   "onset": 5.886,
+   "onset_frame": 177
+  },
+  {
+   "word": "le",
+   "key": "le",
+   "src_start": 4.373,
+   "src_end": 4.447,
+   "whisper_eleven_delta_ms": 15,
+   "phrase": 1,
+   "start": 6.077,
+   "end": 6.151,
+   "frame": 182,
+   "onset": 6.077,
+   "onset_frame": 182
+  },
+  {
+   "word": "das",
+   "key": "das",
+   "src_start": 4.527,
+   "src_end": 4.704,
+   "whisper_eleven_delta_ms": 67,
+   "phrase": 1,
+   "start": 6.231,
+   "end": 6.408,
+   "frame": 187,
+   "onset": 6.213,
+   "onset_frame": 186
+  },
+  {
+   "word": "vida",
+   "key": "vida",
+   "src_start": 4.744,
+   "src_end": 5.224,
+   "whisper_eleven_delta_ms": 8,
+   "phrase": 1,
+   "start": 6.448,
+   "end": 6.928,
+   "frame": 193,
+   "onset": 6.478,
+   "onset_frame": 194
+  },
+  {
+   "word": "Un",
+   "key": "un",
+   "src_start": 5.921,
+   "src_end": 6.084,
+   "whisper_eleven_delta_ms": 119,
+   "phrase": 2,
+   "start": 7.677,
+   "end": 7.84,
+   "frame": 230,
+   "onset": 7.72,
+   "onset_frame": 232
+  },
+  {
+   "word": "trazo",
+   "key": "trazo",
+   "src_start": 6.118,
+   "src_end": 6.434,
+   "whisper_eleven_delta_ms": 82,
+   "phrase": 2,
+   "start": 7.874,
+   "end": 8.19,
+   "frame": 236,
+   "onset": 7.907,
+   "onset_frame": 237
+  },
+  {
+   "word": "se",
+   "key": "se",
+   "src_start": 6.457,
+   "src_end": 6.548,
+   "whisper_eleven_delta_ms": 5,
+   "phrase": 2,
+   "start": 8.213,
+   "end": 8.304,
+   "frame": 246,
+   "onset": 8.247,
+   "onset_frame": 247
+  },
+  {
+   "word": "transforma",
+   "key": "transforma",
+   "src_start": 6.583,
+   "src_end": 7.047,
+   "whisper_eleven_delta_ms": 117,
+   "phrase": 2,
+   "start": 8.339,
+   "end": 8.803,
+   "frame": 250,
+   "onset": 8.367,
+   "onset_frame": 251
+  },
+  {
+   "word": "en",
+   "key": "en",
+   "src_start": 7.105,
+   "src_end": 7.117,
+   "whisper_eleven_delta_ms": 70,
+   "phrase": 2,
+   "start": 8.861,
+   "end": 8.873,
+   "frame": 266,
+   "onset": 8.861,
+   "onset_frame": 266
+  },
+  {
+   "word": "movimiento",
+   "key": "movimiento",
+   "src_start": 7.163,
+   "src_end": 7.712,
+   "whisper_eleven_delta_ms": 117,
+   "phrase": 2,
+   "start": 8.919,
+   "end": 9.468,
+   "frame": 268,
+   "onset": 8.919,
+   "onset_frame": 268
+  },
+  {
+   "word": "Las",
+   "key": "las",
+   "src_start": 7.779,
+   "src_end": 7.906,
+   "whisper_eleven_delta_ms": 161,
+   "phrase": 3,
+   "start": 10.648,
+   "end": 10.775,
+   "frame": 319,
+   "onset": 10.591,
+   "onset_frame": 318
+  },
+  {
+   "word": "preguntas",
+   "key": "preguntas",
+   "src_start": 7.982,
+   "src_end": 8.403,
+   "whisper_eleven_delta_ms": 36,
+   "phrase": 3,
+   "start": 10.851,
+   "end": 11.272,
+   "frame": 326,
+   "onset": 10.844,
+   "onset_frame": 325
+  },
+  {
+   "word": "abren",
+   "key": "abren",
+   "src_start": 8.438,
+   "src_end": 8.719,
+   "whisper_eleven_delta_ms": 75,
+   "phrase": 3,
+   "start": 11.307,
+   "end": 11.588,
+   "frame": 339,
+   "onset": 11.303,
+   "onset_frame": 339
+  },
+  {
+   "word": "nuevas",
+   "key": "nuevas",
+   "src_start": 8.783,
+   "src_end": 9.265,
+   "whisper_eleven_delta_ms": 34,
+   "phrase": 3,
+   "start": 11.652,
+   "end": 12.134,
+   "frame": 350,
+   "onset": 11.652,
+   "onset_frame": 350
+  },
+  {
+   "word": "posibilidades",
+   "key": "posibilidades",
+   "src_start": 9.531,
+   "src_end": 10.612,
+   "whisper_eleven_delta_ms": 23,
+   "phrase": 3,
+   "start": 12.4,
+   "end": 13.481,
+   "frame": 372,
+   "onset": 12.463,
+   "onset_frame": 374
+  },
+  {
+   "word": "Y",
+   "key": "y",
+   "src_start": 10.937,
+   "src_end": 11.053,
+   "whisper_eleven_delta_ms": 437,
+   "phrase": 4,
+   "start": 13.609,
+   "end": 13.725,
+   "frame": 408,
+   "onset": 13.487,
+   "onset_frame": 405
+  },
+  {
+   "word": "cada",
+   "key": "cada",
+   "src_start": 11.173,
+   "src_end": 11.387,
+   "whisper_eleven_delta_ms": 54,
+   "phrase": 4,
+   "start": 13.845,
+   "end": 14.059,
+   "frame": 415,
+   "onset": 13.822,
+   "onset_frame": 415
+  },
+  {
+   "word": "pieza",
+   "key": "pieza",
+   "src_start": 11.416,
+   "src_end": 11.703,
+   "whisper_eleven_delta_ms": 7,
+   "phrase": 4,
+   "start": 14.088,
+   "end": 14.375,
+   "frame": 423,
+   "onset": 14.111,
+   "onset_frame": 423
+  },
+  {
+   "word": "encuentra",
+   "key": "encuentra",
+   "src_start": 11.769,
+   "src_end": 12.158,
+   "whisper_eleven_delta_ms": 62,
+   "phrase": 4,
+   "start": 14.441,
+   "end": 14.83,
+   "frame": 433,
+   "onset": 14.441,
+   "onset_frame": 433
+  },
+  {
+   "word": "su",
+   "key": "su",
+   "src_start": 12.181,
+   "src_end": 12.322,
+   "whisper_eleven_delta_ms": 42,
+   "phrase": 4,
+   "start": 14.853,
+   "end": 14.994,
+   "frame": 446,
+   "onset": 14.928,
+   "onset_frame": 448
+  },
+  {
+   "word": "lugar",
+   "key": "lugar",
+   "src_start": 12.351,
+   "src_end": 12.721,
+   "whisper_eleven_delta_ms": 19,
+   "phrase": 4,
+   "start": 15.023,
+   "end": 15.393,
+   "frame": 451,
+   "onset": 15.023,
+   "onset_frame": 451
+  },
+  {
+   "word": "Creá",
+   "key": "creá",
+   "src_start": 12.817,
+   "src_end": 13.142,
+   "whisper_eleven_delta_ms": 303,
+   "phrase": 5,
+   "start": 20.845,
+   "end": 21.17,
+   "frame": 625,
+   "onset": 20.823,
+   "onset_frame": 625
+  },
+  {
+   "word": "en",
+   "key": "en",
+   "src_start": 13.201,
+   "src_end": 13.259,
+   "whisper_eleven_delta_ms": 99,
+   "phrase": 5,
+   "start": 21.229,
+   "end": 21.287,
+   "frame": 637,
+   "onset": 21.229,
+   "onset_frame": 637
+  },
+  {
+   "word": "todas",
+   "key": "todas",
+   "src_start": 13.317,
+   "src_end": 13.607,
+   "whisper_eleven_delta_ms": 123,
+   "phrase": 5,
+   "start": 21.345,
+   "end": 21.635,
+   "frame": 640,
+   "onset": 21.363,
+   "onset_frame": 641
+  },
+  {
+   "word": "las",
+   "key": "las",
+   "src_start": 13.688,
+   "src_end": 13.932,
+   "whisper_eleven_delta_ms": 23,
+   "phrase": 5,
+   "start": 21.716,
+   "end": 21.96,
+   "frame": 651,
+   "onset": 21.664,
+   "onset_frame": 650
+  },
+  {
+   "word": "dimensiones",
+   "key": "dimensiones",
+   "src_start": 14.141,
+   "src_end": 15.464,
+   "whisper_eleven_delta_ms": 179,
+   "phrase": 5,
+   "start": 22.169,
+   "end": 23.492,
+   "frame": 665,
+   "onset": 22.107,
+   "onset_frame": 663
+  }
+ ],
+ "emphasis": {
+  "idea": {
+   "start": 1.399,
+   "end": 1.976,
+   "frame": 42,
+   "onset": 1.467,
+   "onset_frame": 44
+  },
+  "vida": {
+   "start": 6.448,
+   "end": 6.928,
+   "frame": 193,
+   "onset": 6.478,
+   "onset_frame": 194
+  },
+  "movimiento": {
+   "start": 8.919,
+   "end": 9.468,
+   "frame": 268,
+   "onset": 8.919,
+   "onset_frame": 268
+  },
+  "posibilidades": {
+   "start": 12.4,
+   "end": 13.481,
+   "frame": 372,
+   "onset": 12.463,
+   "onset_frame": 374
+  },
+  "lugar": {
+   "start": 15.023,
+   "end": 15.393,
+   "frame": 451,
+   "onset": 15.023,
+   "onset_frame": 451
+  },
+  "dimensiones": {
+   "start": 22.169,
+   "end": 23.492,
+   "frame": 665,
+   "onset": 22.107,
+   "onset_frame": 663
+  }
+ },
+ "acts": [
+  {
+   "id": "a1-idea",
+   "start": 0.0,
+   "end": 3.0
+  },
+  {
+   "id": "a2-create",
+   "start": 3.0,
+   "end": 7.3
+  },
+  {
+   "id": "a3-stroke",
+   "start": 7.3,
+   "end": 10.4
+  },
+  {
+   "id": "a4-questions",
+   "start": 10.4,
+   "end": 13.4
+  },
+  {
+   "id": "a5-pieces",
+   "start": 13.4,
+   "end": 16.0
+  },
+  {
+   "id": "a6-montage",
+   "start": 16.0,
+   "end": 21.0
+  },
+  {
+   "id": "a7-dimensions",
+   "start": 21.0,
+   "end": 23.0
+  },
+  {
+   "id": "a8-lockup",
+   "start": 23.0,
+   "end": 25.0
+  }
+ ],
+ "shots": [
+  {
+   "id": "b1_cursor",
+   "start": 1.5,
+   "end": 3.1,
+   "w": 1920,
+   "h": 1080,
+   "alpha": false,
+   "frames": 48
+  },
+  {
+   "id": "b2_torus",
+   "start": 3.0,
+   "end": 7.3,
+   "w": 1560,
+   "h": 990,
+   "alpha": false,
+   "frames": 129
+  },
+  {
+   "id": "b3_ribbon",
+   "start": 9.0,
+   "end": 10.4,
+   "w": 1920,
+   "h": 1080,
+   "alpha": false,
+   "frames": 42
+  },
+  {
+   "id": "b4_question",
+   "start": 10.4,
+   "end": 12.1,
+   "w": 1920,
+   "h": 1080,
+   "alpha": false,
+   "frames": 51
+  },
+  {
+   "id": "b5_pieces",
+   "start": 13.4,
+   "end": 16.0,
+   "w": 1920,
+   "h": 1080,
+   "alpha": false,
+   "frames": 78
+  },
+  {
+   "id": "b6_wire",
+   "start": 17.0,
+   "end": 18.0,
+   "w": 1920,
+   "h": 1080,
+   "alpha": false,
+   "frames": 30
+  },
+  {
+   "id": "b7_dimensiones",
+   "start": 22.0,
+   "end": 23.0,
+   "w": 1920,
+   "h": 1080,
+   "alpha": true,
+   "frames": 30
+  },
+  {
+   "id": "b8_logo",
+   "start": 23.0,
+   "end": 25.0,
+   "w": 1920,
+   "h": 1080,
+   "alpha": true,
+   "frames": 60
+  }
+ ],
+ "events": {
+  "caret_blinks": [
+   0.15,
+   0.65
+  ],
+  "cursor_lunge": 2.5,
+  "flash": 3.0,
+  "swatch_clicks": [
+   5.0,
+   5.5,
+   6.0
+  ],
+  "play_click": 6.5,
+  "viewport_zoom": 7.0,
+  "stroke_start": 7.599,
+  "stroke_end": 8.919,
+  "lift": 9.0,
+  "lens_wipe": 10.3,
+  "split": 11.304,
+  "grid": 12.0,
+  "snaps": [
+   13.75,
+   13.875,
+   14.0,
+   14.25,
+   14.5,
+   14.75,
+   15.0
+  ],
+  "montage": [
+   17.0,
+   18.0,
+   19.0,
+   20.0
+  ],
+  "dimensiones": 22.169,
+  "lockup": 23.0
+ },
+ "stroke_px": [
+  [
+   220.0,
+   639.74
+  ],
+  [
+   243.49,
+   639.18
+  ],
+  [
+   266.98,
+   637.71
+  ],
+  [
+   290.48,
+   635.0
+  ],
+  [
+   313.97,
+   630.83
+  ],
+  [
+   337.46,
+   625.0
+  ],
+  [
+   360.95,
+   617.43
+  ],
+  [
+   384.44,
+   608.12
+  ],
+  [
+   407.94,
+   597.2
+  ],
+  [
+   431.43,
+   584.88
+  ],
+  [
+   454.92,
+   571.45
+  ],
+  [
+   478.41,
+   557.3
+  ],
+  [
+   501.9,
+   542.87
+  ],
+  [
+   525.4,
+   528.65
+  ],
+  [
+   548.89,
+   515.12
+  ],
+  [
+   572.38,
+   502.77
+  ],
+  [
+   595.87,
+   492.02
+  ],
+  [
+   619.37,
+   483.26
+  ],
+  [
+   642.86,
+   476.78
+  ],
+  [
+   666.35,
+   472.79
+  ],
+  [
+   689.84,
+   471.37
+  ],
+  [
+   713.33,
+   472.51
+  ],
+  [
+   736.83,
+   476.09
+  ],
+  [
+   760.32,
+   481.89
+  ],
+  [
+   783.81,
+   489.62
+  ],
+  [
+   807.3,
+   498.91
+  ],
+  [
+   830.79,
+   509.36
+  ],
+  [
+   854.29,
+   520.55
+  ],
+  [
+   877.78,
+   532.07
+  ],
+  [
+   901.27,
+   543.53
+  ],
+  [
+   924.76,
+   554.62
+  ],
+  [
+   948.25,
+   565.07
+  ],
+  [
+   971.75,
+   574.71
+  ],
+  [
+   995.24,
+   583.45
+  ],
+  [
+   1018.73,
+   591.3
+  ],
+  [
+   1042.22,
+   598.35
+  ],
+  [
+   1065.71,
+   604.76
+  ],
+  [
+   1089.21,
+   610.75
+  ],
+  [
+   1112.7,
+   616.58
+  ],
+  [
+   1136.19,
+   622.52
+  ],
+  [
+   1159.68,
+   628.85
+  ],
+  [
+   1183.17,
+   635.79
+  ],
+  [
+   1206.67,
+   643.53
+  ],
+  [
+   1230.16,
+   652.19
+  ],
+  [
+   1253.65,
+   661.81
+  ],
+  [
+   1277.14,
+   672.31
+  ],
+  [
+   1300.63,
+   683.56
+  ],
+  [
+   1324.13,
+   695.3
+  ],
+  [
+   1347.62,
+   707.21
+  ],
+  [
+   1371.11,
+   718.91
+  ],
+  [
+   1394.6,
+   729.95
+  ],
+  [
+   1418.1,
+   739.88
+  ],
+  [
+   1441.59,
+   748.26
+  ],
+  [
+   1465.08,
+   754.64
+  ],
+  [
+   1488.57,
+   758.65
+  ],
+  [
+   1512.06,
+   759.99
+  ],
+  [
+   1535.56,
+   758.46
+  ],
+  [
+   1559.05,
+   753.95
+  ],
+  [
+   1582.54,
+   746.46
+  ],
+  [
+   1606.03,
+   736.13
+  ],
+  [
+   1629.52,
+   723.17
+  ],
+  [
+   1653.02,
+   707.93
+  ],
+  [
+   1676.51,
+   690.8
+  ],
+  [
+   1700.0,
+   672.26
+  ]
+ ],
+ "palette": {
+  "ink": "#0E0B16",
+  "ink2": "#1B1530",
+  "paper": "#F4F0EA",
+  "white": "#FFFFFF",
+  "violet": "#6A3DF0",
+  "lilac": "#B9A6FF",
+  "coral": "#FF5B3A",
+  "muted": "#8C8698",
+  "viewport": "#ECE7F5"
+ }
+}
